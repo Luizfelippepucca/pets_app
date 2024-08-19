@@ -7,7 +7,7 @@
 ###  flutter google fonts.
 ### Todas parte de estilização está sendo feita através de um arquivo de temas utilizando material-designe-3 do Flutter.
 ### Os estados da aplicação estão sendo alterados através do ValueNotifier e para buildar em tela o ValueListenableBuilder.
-###Para listar o pets implementei infinite scroll assim sendo possível ter pets carregados antes de finalizar a lista e sempre ter pets carregados infinitamente.
+### Para listar o pets implementei infinite scroll assim sendo possível ter pets carregados antes de finalizar a lista e sempre ter pets carregados infinitamente.
 ### Estou utilizando um serviço gratuito chamado the cats api, onde tem muita coisa legal que da para fazer com esta API.
 ### Para cuidas das requisições estou trabalhando com o package DIO.
 ### A navegação é feita através de rotas nomeadas. 
