@@ -1,4 +1,5 @@
 # vet_app
 
-# Exemplo  de funcionamento  do app através  do link.
-https://www.linkedin.com/feed/update/urn:li:activity:7224452981125967872/
+# Exemplo  de funcionamento  do app .
+https://github.com/user-attachments/assets/b02fa745-ba48-4bd3-8704-f17d3860cee1
+
